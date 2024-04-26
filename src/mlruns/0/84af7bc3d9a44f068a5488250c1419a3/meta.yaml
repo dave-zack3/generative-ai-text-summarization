@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/638658/Desktop/generative-ai-text-summarization/src/mlruns/0/84af7bc3d9a44f068a5488250c1419a3/artifacts
+end_time: 1714135465822
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84af7bc3d9a44f068a5488250c1419a3
+run_name: ../models
+run_uuid: 84af7bc3d9a44f068a5488250c1419a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714135183393
+status: 3
+tags: []
+user_id: '638658'
